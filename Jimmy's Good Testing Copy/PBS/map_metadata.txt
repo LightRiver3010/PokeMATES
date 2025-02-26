@@ -400,3 +400,5 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[076]   # Tower_Mid
