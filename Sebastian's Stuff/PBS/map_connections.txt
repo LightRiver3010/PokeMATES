@@ -6,6 +6,8 @@
 2,West,0,66,East,0
 # Route 8 (69) - Lappet Town (2)
 69,North,12,2,South,0
+# Player's house (3) - Route 3 (31)
+3,0,0,31,19,27
 # Route 6 (44) - Route 1 (5)
 44,South,43,5,North,0
 # Safari Zone outside (66) - Route 1 (5)
@@ -24,6 +26,10 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# Route 1 blah (32) - Test Town hehe (22)
+32,West,0,22,East,1
+# Route 4 (39) - Ingido Plateau outside (35)
+39,East,0,35,West,11
 # Route 5 (41) - Route 4 Cycling Road (40)
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 Cycling Road (45)
@@ -32,9 +38,5 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Player's house (3) - Route 3 (31)
-3,0,0,31,19,27
-# Route 4 (39) - Ingido Plateau outside (35)
-39,East,0,35,West,11
-# Route 1 blah (32) - Test Town hehe (22)
-32,West,0,22,East,1
+# Safari Zone 1 (33) - Safari Zone Outside Entrance (76)
+33,South,12,76,North,0
