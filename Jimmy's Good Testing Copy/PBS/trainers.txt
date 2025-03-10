@@ -137,3 +137,9 @@ Items = POTION
 LoseText = What? How?!
 Pokemon = TOTODILE, 10
 Items = POTION
+#-------------------------------
+[GRUNT1, Grunt]
+LoseText = Boss is gonna be so mad...
+Pokemon = PIDGEY, 4
+#-------------------------------
+

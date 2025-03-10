@@ -415,3 +415,10 @@ Gender = Male
 BaseMoney = 50
 SkillLevel = 70
 BattleBGM = Battle Champion
+#-------------------------------
+[GRUNT1]
+Name = Siesta 
+Gender = Male
+BaseMoney = 20
+SkillLevel = 30
+#-------------------------------
