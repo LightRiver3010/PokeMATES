@@ -39,4 +39,4 @@
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
 # Safari Zone 1 (33) - Safari Zone Outside Entrance (76)
-33,South,12,76,North,0
+33,8,46,76,0,0
