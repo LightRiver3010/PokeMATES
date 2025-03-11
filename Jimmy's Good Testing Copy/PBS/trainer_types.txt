@@ -422,3 +422,8 @@ Gender = Male
 BaseMoney = 20
 SkillLevel = 30
 #-------------------------------
+[ELECTRICIAN1]
+Name = Electrician
+Gender = Male
+BaseMoney = 50
+SkillLevel = 60

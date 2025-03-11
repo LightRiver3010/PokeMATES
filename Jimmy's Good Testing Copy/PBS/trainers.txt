@@ -142,4 +142,6 @@ Items = POTION
 LoseText = Boss is gonna be so mad...
 Pokemon = PIDGEY, 4
 #-------------------------------
-
+[ELECTRICIAN1, Paul]
+LoseText = Woah! High Voltage!
+Pokemon = MAGNEMITE, 6
