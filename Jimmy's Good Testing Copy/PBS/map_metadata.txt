@@ -404,7 +404,36 @@ BattleBack = city
 [076]   # Tower_Mid
 Name = Tower_Mid
 #-------------------------------
-[077]   # Tower_Plaza
+[096]   # Tower_Town
+Name = Tower_Town
 #-------------------------------
-[080]   # MAP080
-Name = MAP080
+[043]	# Tower_Shoreline
+Name = Tower_Shoreline
+#-------------------------------
+[042]	# Tower_Entrance
+Name = Tower_Entrance
+#-------------------------------
+[081]	# Tower_F0
+Name = Tower_F0
+#-------------------------------
+[048]	# Tower_F1
+Name = Tower_F1
+#-------------------------------
+[083]	# Tower_F2
+Name = Tower_F2
+#-------------------------------
+[084]	# Tower_Safari
+Name = Tower_Safari
+#-------------------------------
+[095]	# Tower_Green_Roof
+Name = Tower_Green_Roof
+#-------------------------------
+[094]	# Tower_Brick_House
+Name = Tower_Brick_House
+#-------------------------------
+[092]	# Tower_Bakery
+Name = Tower_Bakery
+#-------------------------------
+[087]	# Tower_Apartment_F1
+Name = Tower_Apartment_F1
+#-------------------------------
