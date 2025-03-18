@@ -416,14 +416,51 @@ BaseMoney = 50
 SkillLevel = 70
 BattleBGM = Battle Champion
 #-------------------------------
-[GRUNT1]
-Name = Siesta 
+[TOWER_GRUNT1]
+Name = Siesta
 Gender = Male
 BaseMoney = 20
 SkillLevel = 30
 #-------------------------------
-[ELECTRICIAN1]
+[TOWER_ELECTRICIAN1]
 Name = Electrician
 Gender = Male
 BaseMoney = 50
-SkillLevel = 60
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_GHOSTHUNTER1]
+Name = Ghost Hunter
+Gender = Female
+BaseMoney = 60
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_BOYSCOUT1]
+Name = Boy Scout
+Gender = Male
+BaseMoney = 30
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_BOYSCOUT2]
+Name = Boy Scout
+Gender = Female
+BaseMoney = 30
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_SCOUTMASTER1]
+Name = Scoutmaster
+Gender = Male
+BaseMoney = 50
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_FISHERMAN1]
+Name = Fisherman
+Gender = Male
+BaseMoney = 80
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
