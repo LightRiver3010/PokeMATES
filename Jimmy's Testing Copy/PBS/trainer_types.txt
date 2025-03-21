@@ -470,3 +470,9 @@ Gender = Female
 BaseMoney = 20
 IntroBGM = Triple Triad
 BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_PROFESSORSID]
+Name = Professor
+Gender = Male
+BaseMoney = 130
+BattleBGM = Battle Gym Leader

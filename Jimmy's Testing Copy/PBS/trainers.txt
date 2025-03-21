@@ -153,13 +153,13 @@ Pokemon = SHUPPET,4
 #-------------------------------
 [TOWER_BOYSCOUT1,Jeremy]
 LoseText = Oh no! My Pokemon needs First Aid!
-Pokemon = SEWADDLE, 5
-Pokemon = METAPOD, 12
+Pokemon = SEWADDLE,5
+Pokemon = METAPOD,12
 #-------------------------------
 [TOWER_BOYSCOUT2,Gwen]
 LoseText = Don't worry Pokemon, I'll make you a splint!
-Pokemon = WEEDLE, 6
-Pokemon = BULBASAUR, 8
+Pokemon = WEEDLE,6
+Pokemon = BULBASAUR,8
 #-------------------------------
 [TOWER_SCOUTMASTER1,Bill]
 LoseText = Ugh, my back is killing me!
@@ -173,4 +173,12 @@ Pokemon = FEEBAS,7
 [TOWER_KICKBOXER1,Kira]
 LoseText = No! I must train harder!
 Pokemon = MEDITITE,10
+#-------------------------------
+[TOWER_PROFESSORSID,Sid]
+LoseText = A statistical anomaly!
+Items = XDEFENSE2, XSPEED, XATTACK2
+Pokemon = PIDGEOT,10
+Pokemon = PORYGONZ,12
+Pokemon = ZANGOOSE,15
+	Shiny = true
 #-------------------------------
