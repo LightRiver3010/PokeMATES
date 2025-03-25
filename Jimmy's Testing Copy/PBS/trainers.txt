@@ -182,3 +182,9 @@ Pokemon = PORYGONZ,12
 Pokemon = ZANGOOSE,15
 	Shiny = true
 #-------------------------------
+[TOWER_GRUNT2,Grunt]
+LoseText = Ugh! Why are my Pokémon so weak?!
+Items = POTION
+Pokemon = MUNCHLAX,7
+Pokemon = PORYGON, 10
+#-------------------------------

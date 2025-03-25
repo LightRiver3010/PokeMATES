@@ -421,6 +421,7 @@ Name = Siesta
 Gender = Male
 BaseMoney = 20
 SkillLevel = 30
+BattleBGM = Siesta Battle
 #-------------------------------
 [TOWER_ELECTRICIAN1]
 Name = Electrician
@@ -468,6 +469,7 @@ BattleBGM = Battle trainer
 Name = Kickboxer
 Gender = Female
 BaseMoney = 20
+SkillLevel = 70
 IntroBGM = Triple Triad
 BattleBGM = Battle trainer
 #-------------------------------
@@ -475,4 +477,12 @@ BattleBGM = Battle trainer
 Name = Professor
 Gender = Male
 BaseMoney = 130
+SkillLevel = 90
 BattleBGM = Battle Gym Leader
+#-------------------------------
+[TOWER_GRUNT2]
+Name = Siesta
+Gender = Female
+BaseMoney = 40
+BattleBGM = Siesta Battle
+#-------------------------------
