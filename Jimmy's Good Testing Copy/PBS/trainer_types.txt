@@ -408,5 +408,22 @@ SkillLevel = 70
 IntroBGM = Triple Triad
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
-
-
+#-------------------------------
+[TOWER_RIVAL1]
+Name = Rival
+Gender = Male
+BaseMoney = 50
+SkillLevel = 70
+BattleBGM = Battle Champion
+#-------------------------------
+[GRUNT1]
+Name = Siesta 
+Gender = Male
+BaseMoney = 20
+SkillLevel = 30
+#-------------------------------
+[ELECTRICIAN1]
+Name = Electrician
+Gender = Male
+BaseMoney = 50
+SkillLevel = 60
