@@ -486,3 +486,10 @@ Gender = Female
 BaseMoney = 40
 BattleBGM = Siesta Battle
 #-------------------------------
+[TOWER_FASHIONISTA1]
+Name = Fashionista
+Gender = Female
+BaseMoney = 200
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------

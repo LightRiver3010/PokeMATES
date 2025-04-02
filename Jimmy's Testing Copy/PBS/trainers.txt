@@ -186,5 +186,11 @@ Pokemon = ZANGOOSE,15
 LoseText = Ugh! Why are my Pokémon so weak?!
 Items = POTION
 Pokemon = MUNCHLAX,7
-Pokemon = PORYGON, 10
+Pokemon = PORYGON,10
+#-------------------------------
+[TOWER_FASHIONISTA1,Tiffany]
+LoseText = Ugh! This heat is making my hair frizzy!
+Items = POTION
+Pokemon = DELCATTY,8
+Pokemon = SMOOCHUM,6
 #-------------------------------
