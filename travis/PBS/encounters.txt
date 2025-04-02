@@ -158,8 +158,8 @@ HeadbuttHigh
 #-------------------------------
 [033] # Tower
 Cave,25
-    30,ZUBAT,5,10
     60,VOLTORB,10,25
+    30,ZUBAT,5,10
     10,MASQUERAIN,5,99
 #-------------------------------
 [034] # Ice Cave
@@ -197,6 +197,14 @@ Land,21
 RockSmash,50
     90,NOSEPASS,13,14
     10,GEODUDE,12,15
+#-------------------------------
+[048] # Tower_F1
+Cave,5
+    25,PIDGEY,3,7
+    15,AIPOM,3,7
+    15,MUNCHLAX,4,6
+    10,CASTFORM,5,8
+    10,PORYGON,5,8
 #-------------------------------
 [049] # Rock Cave 1F
 Cave,5

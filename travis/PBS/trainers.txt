@@ -118,7 +118,73 @@ Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
 [TRAVISWADE,Travis]
-LoseText = I HATE THIS CLASS!!!
-Pokemon = SKITTY, 2
-	Shiny = yes
 Items = POTION
+LoseText = I HATE THIS CLASS!!!
+Pokemon = SKITTY,2
+    Shiny = true
+#-------------------------------
+[TOWER_RIVAL1,Noah]
+Items = POTION
+LoseText = What? How?!
+Pokemon = SNIVY,10
+#-------------------------------
+[TOWER_RIVAL1,Noah,1]
+Items = POTION
+LoseText = What? How?!
+Pokemon = CYNDAQUIL,10
+#-------------------------------
+[TOWER_RIVAL1,Noah,2]
+Items = POTION
+LoseText = What? How?!
+Pokemon = TOTODILE,10
+#-------------------------------
+[TOWER_GRUNT1,Grunt]
+LoseText = Boss is gonna be so mad...
+Pokemon = PIDGEY,4
+#-------------------------------
+[TOWER_ELECTRICIAN1,Paul]
+LoseText = Woah! High Voltage!
+Pokemon = MAGNEMITE,6
+#-------------------------------
+[TOWER_GHOSTHUNTER1,Agatha]
+LoseText = Help! I need garlic at once!
+Pokemon = GASTLY,6
+Pokemon = SHUPPET,4
+#-------------------------------
+[TOWER_BOYSCOUT1,Jeremy]
+LoseText = Oh no! My Pokemon needs First Aid!
+Pokemon = SEWADDLE,5
+Pokemon = METAPOD,12
+#-------------------------------
+[TOWER_BOYSCOUT2,Gwen]
+LoseText = Don't worry Pokemon, I'll make you a splint!
+Pokemon = WEEDLE,6
+Pokemon = BULBASAUR,8
+#-------------------------------
+[TOWER_SCOUTMASTER1,Bill]
+LoseText = Ugh, my back is killing me!
+Pokemon = ROGGENROLA,8
+#-------------------------------
+[TOWER_FISHERMAN1,Gerald]
+LoseText = My arm's in a cast, but it ain't broken!
+Pokemon = MAGIKARP,3
+Pokemon = FEEBAS,7
+#-------------------------------
+[TOWER_KICKBOXER1,Kira]
+LoseText = No! I must train harder!
+Pokemon = MEDITITE,10
+#-------------------------------
+[TOWER_PROFESSORSID,Sid]
+LoseText = A statistical anomaly!
+Items = XDEFENSE2, XSPEED, XATTACK2
+Pokemon = PIDGEOT,10
+Pokemon = PORYGONZ,12
+Pokemon = ZANGOOSE,15
+	Shiny = true
+#-------------------------------
+[TOWER_GRUNT2,Grunt]
+LoseText = Ugh! Why are my Pokémon so weak?!
+Items = POTION
+Pokemon = MUNCHLAX,7
+Pokemon = PORYGON, 10
+#-------------------------------

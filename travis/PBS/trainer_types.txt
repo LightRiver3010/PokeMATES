@@ -408,5 +408,81 @@ SkillLevel = 70
 IntroBGM = Triple Triad
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
-
-
+#-------------------------------
+[TOWER_RIVAL1]
+Name = Rival
+Gender = Male
+BaseMoney = 50
+SkillLevel = 70
+BattleBGM = Battle Champion
+#-------------------------------
+[TOWER_GRUNT1]
+Name = Siesta
+Gender = Male
+BaseMoney = 20
+SkillLevel = 30
+BattleBGM = Siesta Battle
+#-------------------------------
+[TOWER_ELECTRICIAN1]
+Name = Electrician
+Gender = Male
+BaseMoney = 50
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_GHOSTHUNTER1]
+Name = Ghost Hunter
+Gender = Female
+BaseMoney = 60
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_BOYSCOUT1]
+Name = Boy Scout
+Gender = Male
+BaseMoney = 30
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_BOYSCOUT2]
+Name = Boy Scout
+Gender = Female
+BaseMoney = 30
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_SCOUTMASTER1]
+Name = Scoutmaster
+Gender = Male
+BaseMoney = 50
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_FISHERMAN1]
+Name = Fisherman
+Gender = Male
+BaseMoney = 80
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_KICKBOXER1]
+Name = Kickboxer
+Gender = Female
+BaseMoney = 20
+SkillLevel = 70
+IntroBGM = Triple Triad
+BattleBGM = Battle trainer
+#-------------------------------
+[TOWER_PROFESSORSID]
+Name = Professor
+Gender = Male
+BaseMoney = 130
+SkillLevel = 90
+BattleBGM = Battle Gym Leader
+#-------------------------------
+[TOWER_GRUNT2]
+Name = Siesta
+Gender = Female
+BaseMoney = 40
+BattleBGM = Siesta Battle
+#-------------------------------
