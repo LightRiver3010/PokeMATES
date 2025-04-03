@@ -199,12 +199,12 @@ RockSmash,50
     10,GEODUDE,12,15
 #-------------------------------
 [048] # Tower_F1
-Cave,10
-    15,AIPOM,3,7
+Cave,5
     25,PIDGEY,3,7
+    15,AIPOM,3,7
+    15,MUNCHLAX,4,6
     10,CASTFORM,5,8
     10,PORYGON,5,8
-    15,MUNCHLAX,4,6
 #-------------------------------
 [049] # Rock Cave 1F
 Cave,5
@@ -323,3 +323,13 @@ Land,21
     10,PIKACHU,11,14
     10,SANDSHREW_1,11,14
     10,VULPIX_1,11,14
+#-------------------------------
+[083] # Tower_F2
+Cave,5
+    15,CHARMANDER,6,8
+    15,CHARMELEON,9,11
+    20,PONYTA,6,9
+    15,SLUGMA,7,10
+    20,DARUMAKA,5,9
+    10,DARMANITAN,10,13
+#-------------------------------
