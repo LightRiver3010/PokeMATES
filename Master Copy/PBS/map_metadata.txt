@@ -404,7 +404,14 @@ BattleBack = city
 [076]   # Tower_Mid
 Name = Tower_Mid
 #-------------------------------
-[077]   # Tower_Plaza
+[077]   # Tower_School_F1
+Name = Tower_School_F1
 #-------------------------------
-[080]   # MAP080
+[080]   # Tower_School_F2
 Name = MAP080
+#-------------------------------
+[087]   # SF2 Center Caves
+DiveMap = 116
+#-------------------------------
+[116]   # MAP116
+Environment = Underwater
