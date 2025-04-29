@@ -416,3 +416,9 @@ BattleBack = champion1
 [048]	# Tower_F1
 Name = Tower_F1
 BattleBack = champion2
+#-------------------------------
+[087]   # SF2 Center Caves
+DiveMap = 116
+#-------------------------------
+[116]   # MAP116
+Environment = Underwater

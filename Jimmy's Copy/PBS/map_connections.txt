@@ -40,11 +40,11 @@
 69,North,0,66,South,10
 # Safari Zone 1 (84) - Safari Zone Outside Entrance (95)
 84,12,48,95,0,0
-# Tower_Mid (76) - Safari Zone  (82)
-76,29,0,82,0,3
 # Tower_Entrance (42) - Tower_Mid (76)
 42,East,5,76,West,0
 # Tower_Shoreline (43) - Tower_Mid (76)
 43,North,6,76,South,0
 # Tower_Town (115) - Tower_Mid (76)
 115,South,0,76,North,2
+# Tower_Mid (76) - Safari Zone  (82)
+76,28,0,82,0,3
