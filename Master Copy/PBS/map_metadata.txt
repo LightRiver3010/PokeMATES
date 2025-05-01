@@ -404,7 +404,36 @@ BattleBack = city
 [076]   # Tower_Mid
 Name = Tower_Mid
 #-------------------------------
-[077]   # Tower_Plaza
+[077]   # Tower_School_F1
+Name = Tower_School_F1
 #-------------------------------
-[080]   # MAP080
+[080]   # Tower_School_F2
 Name = MAP080
+#-------------------------------
+[084]   # Safari Zone 1
+SafariMap = true
+#-------------------------------
+[085]   # SF1 Garden
+SafariMap = true
+#-------------------------------
+[086]   # Safari Zone 2
+SafariMap = true
+#-------------------------------
+[087]   # SF2 Center Caves
+Name = SF2 Center Caves
+DiveMap = 116
+SafariMap = true
+#-------------------------------
+[088]   # SF2 Waterfall
+SafariMap = true
+#-------------------------------
+[095]   # Safari Zone Outside Entrance
+SafariMap = true
+#-------------------------------
+[116]   # S2 Underwater
+Name = S2 Underwater
+SafariMap = true
+Environment = Underwater
+#-------------------------------
+[117]   # S2 Ice Cave
+SafariMap = true

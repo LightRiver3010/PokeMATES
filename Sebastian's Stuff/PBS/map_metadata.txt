@@ -205,6 +205,10 @@ BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
+[043]   # S2 Center Caves
+DiveMap = 79
+Environment = Underwater
+#-------------------------------
 [044]   # Route 6
 Name = Route 6
 Outdoor = true
@@ -252,7 +256,7 @@ BattleBack = cave3
 Environment = Cave
 Flags = Magnetic,DistortionWorld
 #-------------------------------
-[051]   # Dungeon
+[051]   # CrossRoads
 Name = Route 7
 Bicycle = true
 MapPosition = 0,16,10
