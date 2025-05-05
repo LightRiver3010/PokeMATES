@@ -410,7 +410,7 @@ BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
 #-------------------------------
 [TOWER_RIVAL1]
-Name = 
+Name = Unnamed
 Gender = Male
 BaseMoney = 50
 SkillLevel = 70
@@ -493,3 +493,30 @@ BaseMoney = 200
 IntroBGM = Triple Triad
 BattleBGM = Battle trainer
 #-------------------------------
+[TOWER_BIKER1]
+Name = Biker
+Gender = Male
+BaseMoney = 60
+IntroBGM = F2 BGM
+BattleBGM = Diamond.Pearl Gym Leader Battle
+#-------------------------------
+[TOWER_SCHOOLGIRL1]
+Name = School Girl
+Gender = Female
+BaseMoney = 20
+IntroBGM = F2 BGM
+BattleBGM = Diamond.Pearl Gym Leader Battle
+#-------------------------------
+[TOWER_BODYBUILDER1]
+Name = Bodybuilder
+Gender = Male
+BaseMoney = 100
+IntroBGM = F2 BGM
+BattleBGM = Diamond.Pearl Gym Leader Battle
+#-------------------------------
+[TOWER_BLAZE]
+Name = Floor 2 Boss
+Gender = Male
+BaseMoney = 300
+IntroBGM = F2 BGM
+BattleBGM = Diamond.Pearl Gym Leader Battle

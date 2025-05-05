@@ -175,22 +175,50 @@ LoseText = No! I must train harder!
 Pokemon = MEDITITE,10
 #-------------------------------
 [TOWER_PROFESSORSID,Sid]
+Items = XDEFENSE2,XSPEED,XATTACK2
 LoseText = A statistical anomaly!
-Items = XDEFENSE2, XSPEED, XATTACK2
 Pokemon = PIDGEOT,10
 Pokemon = PORYGONZ,12
 Pokemon = ZANGOOSE,15
-	Shiny = true
+    Shiny = true
 #-------------------------------
 [TOWER_GRUNT2,Grunt]
-LoseText = Ugh! Why are my Pokémon so weak?!
 Items = POTION
+LoseText = Ugh! Why are my Pokémon so weak?!
 Pokemon = MUNCHLAX,7
 Pokemon = PORYGON,10
 #-------------------------------
 [TOWER_FASHIONISTA1,Tiffany]
-LoseText = Ugh! This heat is making my hair frizzy!
 Items = POTION
+LoseText = Ugh! This heat is making my hair frizzy!
 Pokemon = DELCATTY,8
 Pokemon = SMOOCHUM,6
+#-------------------------------
+[TOWER_BIKER1,Bob]
+LoseText = I just need some air in my tires...
+Items = POTION
+Pokemon = ONIX, 12
+Pokemon = WEAVILE, 15
+#-------------------------------
+[TOWER_SCHOOLGIRL1, Lola]
+LoseText = Hm! This battle was nothing like the textbook!
+Items = XATTACK2, POTION
+Pokemon = WATCHOG, 12
+Pokemon = GARDEVOIR, 15
+#-------------------------------
+[TOWER_BODYBUILDER1, Cole]
+LoseText = What is a loss, if not an opportunity to train harder?
+Items = SUPERPOTION, POTION
+Pokemon = RIOLU, 10
+Pokemon = SAWK, 14
+Pokemon = RHYDON, 16
+#-------------------------------
+[TOWER_BLAZE, Blaze]
+LoseText = C'mon Pokémon! I'm just getting warmed up!
+Items = SUPERPOTION, XATTACK2, SUPERPOTION
+Pokemon = HOUNDOUR, 10
+Pokemon = INFERNAPE, 14
+Pokemon = MAGCARGO, 13
+Pokemon = TYPHLOSION, 20
+	Shiny = true
 #-------------------------------
