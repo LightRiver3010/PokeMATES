@@ -517,6 +517,6 @@ BattleBGM = Diamond.Pearl Gym Leader Battle
 [TOWER_BLAZE]
 Name = Floor 2 Boss
 Gender = Male
-BaseMoney = 300
+BaseMoney = 200
 IntroBGM = F2 BGM
-BattleBGM = Diamond.Pearl Gym Leader Battle
+BattleBGM = Blaze Battle
