@@ -511,6 +511,7 @@ BattleBGM = Diamond.Pearl Gym Leader Battle
 Name = Bodybuilder
 Gender = Male
 BaseMoney = 100
+SkillLevel = 75
 IntroBGM = F2 BGM
 BattleBGM = Diamond.Pearl Gym Leader Battle
 #-------------------------------
@@ -518,5 +519,28 @@ BattleBGM = Diamond.Pearl Gym Leader Battle
 Name = Floor 2 Boss
 Gender = Male
 BaseMoney = 200
+SkillLevel = 90
 IntroBGM = F2 BGM
 BattleBGM = Blaze Battle
+#-------------------------------
+[TOWER_SHIVERINGSWIMMER1]
+Name = Swimmer
+Gender = Female
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = Icy Battle Intro
+BattleBGM = Intense Battle
+#-------------------------------
+[TOWER_BOXER1]
+Name = Boxer
+Gender = Male
+BaseMoney = 60
+SkillLevel = 70
+BattleBGM = Intense Battle
+#-------------------------------
+
+#-------------------------------
+
+#-------------------------------
+
+
