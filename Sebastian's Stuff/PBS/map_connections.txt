@@ -26,8 +26,10 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
-# MAP032 (32) - S1 Sub Area (22)
+# S2 Waterfall (32) - S1 Sub Area (22)
 32,West,0,22,East,1
+# Safari Zone 1 (33) - Safari Zone Outside Entrance (76)
+33,South,12,76,North,0
 # Route 4 (39) - Ingido Plateau outside (35)
 39,East,0,35,West,11
 # Route 5 (41) - Route 4 Cycling Road (40)
@@ -38,5 +40,11 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Safari Zone 1 (33) - Safari Zone Outside Entrance (76)
-33,South,12,76,North,0
+# SF3 Mountain (81) - SF3 Peak (83)
+81,North,3,83,South,0
+# SF3 Side Mountain (82) - SF3 Peak (83)
+82,West,0,83,East,20
+# SF3 Side Mountain (82) - SF3 Mountain (81)
+82,West,8,81,East,0
+# Safari Zone 3 (80) - SF3 Mountain (81)
+80,North,0,81,South,6

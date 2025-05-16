@@ -34,17 +34,25 @@
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 Cycling Road (45)
 41,South,6,45,North,0
-# Route 7 (47) - Battle Frontier (52)
-47,East,8,52,West,0
-# Route 8 (69) - Safari Zone outside (66)
-69,North,0,66,South,10
-# Safari Zone 1 (84) - Safari Zone Outside Entrance (95)
-84,12,48,95,0,0
 # Tower_Entrance (42) - Tower_Mid (76)
 42,East,5,76,West,0
 # Tower_Shoreline (43) - Tower_Mid (76)
 43,North,6,76,South,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 8 (69) - Safari Zone outside (66)
+69,North,0,66,South,10
 # Safari Zone  (82) - Tower_Mid (76)
 82,West,2,76,East,0
 # Tower_Town (115) - Tower_Mid (76)
 115,South,0,76,North,2
+# Safari Zone 1 (84) - Safari Zone Outside Entrance (95)
+84,12,48,95,0,0
+# SF3 Side (120) - SF3 Peak (121)
+120,West,0,121,East,20
+# SF3 Frontside (119) - SF3 Peak (121)
+119,North,3,121,South,0
+# SF3 Frontside (119) - SF3 Side (120)
+119,East,0,120,West,8
+# Safari Zone 3 (118) - SF3 Frontside (119)
+118,North,0,119,South,6
