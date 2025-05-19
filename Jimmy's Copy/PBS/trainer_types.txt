@@ -538,7 +538,12 @@ BaseMoney = 60
 SkillLevel = 70
 BattleBGM = Intense Battle
 #-------------------------------
-
+[TOWER_ELITETRAINER1]
+Name = Elite Trainer
+Gender = Female
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Intense Battle
 #-------------------------------
 
 #-------------------------------

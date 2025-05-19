@@ -236,5 +236,11 @@ Pokemon = BOUFFALANT, 13
 Pokemon = BLAZIKEN, 15
 Pokemon = CLEFFA, 5
 #-------------------------------
-
+[TOWER_ELITETRAINER1, Jordan]
+LoseText = Wow, you're tough!
+Items = SUPERPOTION, SUPERPOTION, XDEFENSE2
+Pokemon = BISHARP, 18
+Pokemon = GOREBYSS, 15
+Pokemon = HITMONCHAN, 20
+	Shiny = True
 #-------------------------------
