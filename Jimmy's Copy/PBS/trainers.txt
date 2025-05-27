@@ -195,30 +195,56 @@ Pokemon = DELCATTY,8
 Pokemon = SMOOCHUM,6
 #-------------------------------
 [TOWER_BIKER1,Bob]
-LoseText = I just need some air in my tires...
 Items = POTION
-Pokemon = ONIX, 12
-Pokemon = WEAVILE, 15
+LoseText = I just need some air in my tires...
+Pokemon = ONIX,12
+Pokemon = WEAVILE,15
 #-------------------------------
-[TOWER_SCHOOLGIRL1, Lola]
+[TOWER_SCHOOLGIRL1,Lola]
+Items = XATTACK2,POTION
 LoseText = Hm! This battle was nothing like the textbook!
-Items = XATTACK2, POTION
-Pokemon = WATCHOG, 12
-Pokemon = GARDEVOIR, 15
+Pokemon = WATCHOG,12
+Pokemon = GARDEVOIR,15
 #-------------------------------
-[TOWER_BODYBUILDER1, Cole]
+[TOWER_BODYBUILDER1,Cole]
+Items = SUPERPOTION,POTION
 LoseText = What is a loss, if not an opportunity to train harder?
-Items = SUPERPOTION, POTION
-Pokemon = RIOLU, 10
-Pokemon = SAWK, 14
-Pokemon = RHYDON, 16
+Pokemon = RIOLU,10
+Pokemon = SAWK,14
+Pokemon = RHYDON,16
 #-------------------------------
-[TOWER_BLAZE, Blaze]
+[TOWER_BLAZE,Blaze]
+Items = SUPERPOTION,XATTACK2,SUPERPOTION
 LoseText = C'mon Pokémon! I'm just getting warmed up!
-Items = SUPERPOTION, XATTACK2, SUPERPOTION
-Pokemon = HOUNDOUR, 10
-Pokemon = INFERNAPE, 14
-Pokemon = MAGCARGO, 13
-Pokemon = TYPHLOSION, 20
-	Shiny = true
+Pokemon = HOUNDOUR,10
+Pokemon = INFERNAPE,14
+Pokemon = MAGCARGO,13
+Pokemon = TYPHLOSION,20
+    Shiny = true
 #-------------------------------
+[TOWER_SHIVERINGSWIMMER1,Leah]
+Items = SUPERPOTION
+LoseText = I lost? Ugh! It's too c-c-cold out here!
+Pokemon = FRILLISH,12
+    Gender = female
+Pokemon = GOLDUCK,13
+#-------------------------------
+[TOWER_BOXER1, T.J.]
+LoseText = Not so bad for a featherweight!
+Items = XATTACK2, XATTACK2
+Pokemon = BOUFFALANT, 13
+Pokemon = BLAZIKEN, 15
+Pokemon = CLEFFA, 5
+#-------------------------------
+[TOWER_ELITETRAINER1, Jordan]
+LoseText = Wow, you're tough!
+Items = SUPERPOTION, SUPERPOTION, XDEFENSE2
+Pokemon = BISHARP, 18
+Pokemon = GOREBYSS, 15
+Pokemon = HITMONCHAN, 20
+	Shiny = True
+#-------------------------------
+[TOWER_DISGUISEMASTER1, Nate]
+LoseText = Whaaa? This must be an optical illusion!
+Items = POTION, POTION
+Pokemon = PIKACHU, 20
