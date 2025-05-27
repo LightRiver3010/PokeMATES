@@ -545,7 +545,12 @@ BaseMoney = 100
 SkillLevel = 100
 BattleBGM = Intense Battle
 #-------------------------------
-
+[TOWER_DISGUISEMASTER1]
+Name = Disguise Master
+Gender = Male
+BaseMoney = 60
+SkillLevel = 50
+BattleBGM = Intense Battle
 #-------------------------------
 
 

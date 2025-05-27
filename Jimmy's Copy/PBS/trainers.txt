@@ -247,3 +247,4 @@ Pokemon = HITMONCHAN, 20
 [TOWER_DISGUISEMASTER1, Nate]
 LoseText = Whaaa? This must be an optical illusion!
 Items = POTION, POTION
+Pokemon = PIKACHU, 20
