@@ -542,7 +542,6 @@ BattleBGM = Intense Battle
 Name = Elite Trainer
 Gender = Female
 BaseMoney = 100
-SkillLevel = 100
 BattleBGM = Intense Battle
 #-------------------------------
 [TOWER_DISGUISEMASTER1]
@@ -552,5 +551,16 @@ BaseMoney = 60
 SkillLevel = 50
 BattleBGM = Intense Battle
 #-------------------------------
-
-
+[TOWER_SOFIA1]
+Name = Floor 3 Boss
+Gender = Female
+BaseMoney = 0
+SkillLevel = 100
+BattleBGM = F3 Music
+#-------------------------------
+[TOWER_SOFIA]
+Name = Floor 3 Boss
+Gender = Female
+BaseMoney = 300
+SkillLevel = 100
+BattleBGM = Victory Road
