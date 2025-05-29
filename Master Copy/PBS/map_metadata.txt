@@ -411,12 +411,15 @@ Name = Tower_School_F1
 Name = MAP080
 #-------------------------------
 [084]   # Safari Zone 1
+Name = Safari Zone 1
 SafariMap = true
 #-------------------------------
 [085]   # SF1 Garden
+Name = SF1 Garden
 SafariMap = true
 #-------------------------------
 [086]   # Safari Zone 2
+Name = Safari Zone 2
 SafariMap = true
 #-------------------------------
 [087]   # SF2 Center Caves
@@ -425,9 +428,11 @@ DiveMap = 116
 SafariMap = true
 #-------------------------------
 [088]   # SF2 Waterfall
+Name = SF2 Waterfall
 SafariMap = true
 #-------------------------------
 [095]   # Safari Zone Outside Entrance
+Name = Safari Zone Outside Entrance
 SafariMap = true
 #-------------------------------
 [116]   # S2 Underwater
@@ -436,4 +441,17 @@ SafariMap = true
 Environment = Underwater
 #-------------------------------
 [117]   # S2 Ice Cave
+Name = S2 Ice Cave
+SafariMap = true
+#-------------------------------
+[118]   # Safari Zone 3
+SafariMap = true
+#-------------------------------
+[119]   # SF3 Frontside
+SafariMap = true
+#-------------------------------
+[120]   # SF3 Side
+SafariMap = true
+#-------------------------------
+[121]   # SF3 Peak
 SafariMap = true
