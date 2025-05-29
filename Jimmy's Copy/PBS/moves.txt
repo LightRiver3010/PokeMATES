@@ -4939,6 +4939,18 @@ FunctionCode = None
 Flags = Contact,CanProtect,CanMirrorMove
 Description = The target is slugged with a punch thrown at maximum power. It can also be used to move heavy boulders.
 #-------------------------------
+[STRENGTH2]
+Name = Strength2
+Type = NORMAL
+Category = Physical
+Power = 80
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = Contact,CanProtect,CanMirrorMove
+Description = The target is slugged with a punch thrown at maximum power. It can also be used to break weak objects.
+#-------------------------------
 [TRIATTACK]
 Name = Tri Attack
 Type = NORMAL
