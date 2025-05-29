@@ -410,7 +410,7 @@ BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
 #-------------------------------
 [TOWER_RIVAL1]
-Name = Rival
+Name = Unnamed
 Gender = Male
 BaseMoney = 50
 SkillLevel = 70
@@ -493,3 +493,74 @@ BaseMoney = 200
 IntroBGM = Triple Triad
 BattleBGM = Battle trainer
 #-------------------------------
+[TOWER_BIKER1]
+Name = Biker
+Gender = Male
+BaseMoney = 60
+IntroBGM = F2 BGM
+BattleBGM = Diamond.Pearl Gym Leader Battle
+#-------------------------------
+[TOWER_SCHOOLGIRL1]
+Name = School Girl
+Gender = Female
+BaseMoney = 20
+IntroBGM = F2 BGM
+BattleBGM = Diamond.Pearl Gym Leader Battle
+#-------------------------------
+[TOWER_BODYBUILDER1]
+Name = Bodybuilder
+Gender = Male
+BaseMoney = 100
+SkillLevel = 75
+IntroBGM = F2 BGM
+BattleBGM = Diamond.Pearl Gym Leader Battle
+#-------------------------------
+[TOWER_BLAZE]
+Name = Floor 2 Boss
+Gender = Male
+BaseMoney = 200
+SkillLevel = 90
+IntroBGM = F2 BGM
+BattleBGM = Blaze Battle
+#-------------------------------
+[TOWER_SHIVERINGSWIMMER1]
+Name = Swimmer
+Gender = Female
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = Icy Battle Intro
+BattleBGM = Intense Battle
+#-------------------------------
+[TOWER_BOXER1]
+Name = Boxer
+Gender = Male
+BaseMoney = 60
+SkillLevel = 70
+BattleBGM = Intense Battle
+#-------------------------------
+[TOWER_ELITETRAINER1]
+Name = Elite Trainer
+Gender = Female
+BaseMoney = 100
+BattleBGM = Intense Battle
+#-------------------------------
+[TOWER_DISGUISEMASTER1]
+Name = Disguise Master
+Gender = Male
+BaseMoney = 60
+SkillLevel = 50
+BattleBGM = Intense Battle
+#-------------------------------
+[TOWER_SOFIA1]
+Name = Floor 3 Boss
+Gender = Female
+BaseMoney = 0
+SkillLevel = 100
+BattleBGM = F3 Music
+#-------------------------------
+[TOWER_SOFIA]
+Name = Floor 3 Boss
+Gender = Female
+BaseMoney = 300
+SkillLevel = 100
+BattleBGM = Victory Road

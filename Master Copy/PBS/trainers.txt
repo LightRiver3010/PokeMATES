@@ -123,17 +123,17 @@ LoseText = I HATE THIS CLASS!!!
 Pokemon = SKITTY,2
     Shiny = true
 #-------------------------------
-[TOWER_RIVAL1,Noah]
+[TOWER_RIVAL1,Stranger]
 Items = POTION
 LoseText = What? How?!
 Pokemon = SNIVY,10
 #-------------------------------
-[TOWER_RIVAL1,Noah,1]
+[TOWER_RIVAL1,Stranger,1]
 Items = POTION
 LoseText = What? How?!
 Pokemon = CYNDAQUIL,10
 #-------------------------------
-[TOWER_RIVAL1,Noah,2]
+[TOWER_RIVAL1,Stranger,2]
 Items = POTION
 LoseText = What? How?!
 Pokemon = TOTODILE,10
@@ -175,22 +175,93 @@ LoseText = No! I must train harder!
 Pokemon = MEDITITE,10
 #-------------------------------
 [TOWER_PROFESSORSID,Sid]
+Items = XDEFENSE2,XSPEED,XATTACK2
 LoseText = A statistical anomaly!
-Items = XDEFENSE2, XSPEED, XATTACK2
 Pokemon = PIDGEOT,10
 Pokemon = PORYGONZ,12
 Pokemon = ZANGOOSE,15
-	Shiny = true
+    Shiny = true
 #-------------------------------
 [TOWER_GRUNT2,Grunt]
-LoseText = Ugh! Why are my Pokémon so weak?!
 Items = POTION
+LoseText = Ugh! Why are my Pokémon so weak?!
 Pokemon = MUNCHLAX,7
 Pokemon = PORYGON,10
 #-------------------------------
 [TOWER_FASHIONISTA1,Tiffany]
-LoseText = Ugh! This heat is making my hair frizzy!
 Items = POTION
+LoseText = Ugh! This heat is making my hair frizzy!
 Pokemon = DELCATTY,8
 Pokemon = SMOOCHUM,6
+#-------------------------------
+[TOWER_BIKER1,Bob]
+Items = POTION
+LoseText = I just need some air in my tires...
+Pokemon = ONIX,12
+Pokemon = WEAVILE,15
+#-------------------------------
+[TOWER_SCHOOLGIRL1,Lola]
+Items = XATTACK2,POTION
+LoseText = Hm! This battle was nothing like the textbook!
+Pokemon = WATCHOG,12
+Pokemon = GARDEVOIR,15
+#-------------------------------
+[TOWER_BODYBUILDER1,Cole]
+Items = SUPERPOTION,POTION
+LoseText = What is a loss, if not an opportunity to train harder?
+Pokemon = RIOLU,10
+Pokemon = SAWK,14
+Pokemon = RHYDON,16
+#-------------------------------
+[TOWER_BLAZE,Blaze]
+Items = SUPERPOTION,XATTACK2,SUPERPOTION
+LoseText = C'mon Pokémon! I'm just getting warmed up!
+Pokemon = HOUNDOUR,12
+Pokemon = INFERNAPE,16
+Pokemon = MAGCARGO,17
+Pokemon = TYPHLOSION,20
+    Shiny = true
+#-------------------------------
+[TOWER_SHIVERINGSWIMMER1,Leah]
+Items = SUPERPOTION
+LoseText = I lost? Ugh! It's too c-c-cold out here!
+Pokemon = FRILLISH,15
+    Gender = female
+Pokemon = GOLDUCK,13
+#-------------------------------
+[TOWER_BOXER1,T.J.]
+Items = XATTACK2,XATTACK2
+LoseText = Not so bad for a featherweight!
+Pokemon = BOUFFALANT,18
+Pokemon = BLAZIKEN,16
+Pokemon = CLEFFA,5
+#-------------------------------
+[TOWER_ELITETRAINER1,Jordan]
+Items = SUPERPOTION,SUPERPOTION,XDEFENSE2
+LoseText = Wow, you're tough!
+Pokemon = BISHARP,20
+Pokemon = GOREBYSS,18
+Pokemon = HITMONCHAN,23
+    Shiny = true
+#-------------------------------
+[TOWER_DISGUISEMASTER1,Nate]
+Items = POTION,POTION
+LoseText = Whaaa? This must be an optical illusion!
+Pokemon = DITTO,27
+#-------------------------------
+[TOWER_SOFIA1,Sofia]
+LoseText = ...
+Items = SUPERPOTION, POTION
+Pokemon = SNOVER, 17
+Pokemon = SEALEO, 20
+Pokemon = VANILLISH, 18
+#-------------------------------
+[TOWER_SOFIA,Sofia]
+LoseText = No...
+Items = REVIVE, SUPERPOTION, SUPERPOTION, XATTACK2
+Pokemon = ABOMASNOW, 23
+Pokemon = WALREIN, 25
+Pokemon = VANILLUXE, 26
+Pokemon = ARTICUNO, 35
+	Shiny = True
 #-------------------------------
