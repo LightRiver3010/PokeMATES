@@ -216,35 +216,52 @@ Pokemon = RHYDON,16
 [TOWER_BLAZE,Blaze]
 Items = SUPERPOTION,XATTACK2,SUPERPOTION
 LoseText = C'mon Pokémon! I'm just getting warmed up!
-Pokemon = HOUNDOUR,10
-Pokemon = INFERNAPE,14
-Pokemon = MAGCARGO,13
+Pokemon = HOUNDOUR,12
+Pokemon = INFERNAPE,16
+Pokemon = MAGCARGO,17
 Pokemon = TYPHLOSION,20
     Shiny = true
 #-------------------------------
 [TOWER_SHIVERINGSWIMMER1,Leah]
 Items = SUPERPOTION
 LoseText = I lost? Ugh! It's too c-c-cold out here!
-Pokemon = FRILLISH,12
+Pokemon = FRILLISH,15
     Gender = female
 Pokemon = GOLDUCK,13
 #-------------------------------
-[TOWER_BOXER1, T.J.]
+[TOWER_BOXER1,T.J.]
+Items = XATTACK2,XATTACK2
 LoseText = Not so bad for a featherweight!
-Items = XATTACK2, XATTACK2
-Pokemon = BOUFFALANT, 13
-Pokemon = BLAZIKEN, 15
-Pokemon = CLEFFA, 5
+Pokemon = BOUFFALANT,18
+Pokemon = BLAZIKEN,16
+Pokemon = CLEFFA,5
 #-------------------------------
-[TOWER_ELITETRAINER1, Jordan]
+[TOWER_ELITETRAINER1,Jordan]
+Items = SUPERPOTION,SUPERPOTION,XDEFENSE2
 LoseText = Wow, you're tough!
-Items = SUPERPOTION, SUPERPOTION, XDEFENSE2
-Pokemon = BISHARP, 18
-Pokemon = GOREBYSS, 15
-Pokemon = HITMONCHAN, 20
+Pokemon = BISHARP,20
+Pokemon = GOREBYSS,18
+Pokemon = HITMONCHAN,23
+    Shiny = true
+#-------------------------------
+[TOWER_DISGUISEMASTER1,Nate]
+Items = POTION,POTION
+LoseText = Whaaa? This must be an optical illusion!
+Pokemon = DITTO,27
+#-------------------------------
+[TOWER_SOFIA1,Sofia]
+LoseText = ...
+Items = SUPERPOTION, POTION
+Pokemon = SNOVER, 17
+Pokemon = SEALEO, 20
+Pokemon = VANILLISH, 18
+#-------------------------------
+[TOWER_SOFIA,Sofia]
+LoseText = No...
+Items = REVIVE, SUPERPOTION, SUPERPOTION, XATTACK2
+Pokemon = ABOMASNOW, 23
+Pokemon = WALREIN, 25
+Pokemon = VANILLUXE, 26
+Pokemon = ARTICUNO, 35
 	Shiny = True
 #-------------------------------
-[TOWER_DISGUISEMASTER1, Nate]
-LoseText = Whaaa? This must be an optical illusion!
-Items = POTION, POTION
-Pokemon = PIKACHU, 20
