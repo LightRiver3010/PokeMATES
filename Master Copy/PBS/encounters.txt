@@ -326,10 +326,35 @@ Land,21
 #-------------------------------
 [083] # Tower_F2
 Cave,5
+    20,DARUMAKA,5,9
+    20,PONYTA,6,9
     15,CHARMANDER,6,8
     15,CHARMELEON,9,11
-    20,PONYTA,6,9
     15,SLUGMA,7,10
-    20,DARUMAKA,5,9
     10,DARMANITAN,10,13
 #-------------------------------
+[118] # Safari Zone 3
+Land,21
+    290,LITLEO,25,30
+    250,ZOROARK,24,29
+    140,SLUGMA,24,31
+    1,DIGLETT_1,99,100
+#-------------------------------
+[119] # SF3 Frontside
+Land,21
+    20,GRAVELER,25,32
+    20,MAGBY,22,27
+    20,SLUGMA,24,31
+    10,COMBUSKEN,20,26
+#-------------------------------
+[120] # SF3 Side
+Land,21
+    20,LITLEO,25,30
+    20,LYCANROC,19,26
+    20,SLUGMA,24,31
+#-------------------------------
+[121] # SF3 Peak
+Land,21
+    20,LITLEO,25,30
+    20,LYCANROC,19,26
+    20,SLUGMA,24,31
