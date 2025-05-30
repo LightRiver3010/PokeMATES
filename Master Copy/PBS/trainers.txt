@@ -123,17 +123,17 @@ LoseText = I HATE THIS CLASS!!!
 Pokemon = SKITTY,2
     Shiny = true
 #-------------------------------
-[TOWER_RIVAL1,Stranger]
+[TOWER_RIVAL1,Noah]
 Items = POTION
 LoseText = What? How?!
 Pokemon = SNIVY,10
 #-------------------------------
-[TOWER_RIVAL1,Stranger,1]
+[TOWER_RIVAL1,Noah,1]
 Items = POTION
 LoseText = What? How?!
 Pokemon = CYNDAQUIL,10
 #-------------------------------
-[TOWER_RIVAL1,Stranger,2]
+[TOWER_RIVAL1,Noah,2]
 Items = POTION
 LoseText = What? How?!
 Pokemon = TOTODILE,10
