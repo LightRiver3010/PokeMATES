@@ -199,9 +199,10 @@ RockSmash,50
     10,GEODUDE,12,15
 #-------------------------------
 [048] # Tower_F1
-Cave,5
+Cave,3
     25,PIDGEY,3,7
     15,AIPOM,3,7
+    15,MINCCINO,5,8
     15,MUNCHLAX,4,6
     10,CASTFORM,5,8
     10,PORYGON,5,8
@@ -325,13 +326,21 @@ Land,21
     10,VULPIX_1,11,14
 #-------------------------------
 [083] # Tower_F2
-Cave,5
-    20,DARUMAKA,5,9
-    20,PONYTA,6,9
+Cave,3
+    16,DARUMAKA,5,9
     15,CHARMANDER,6,8
-    15,CHARMELEON,9,11
+    10,CHARMELEON,9,11
+    15,MAGBY,7,11
+    15,PONYTA,6,9
     15,SLUGMA,7,10
-    10,DARMANITAN,10,13
+    10,CYNDAQUIL,8,12
+    5,DARMANITAN,12,15
+    10,PANSEAR,7,13
+    15,VULPIX,7,9
+    10,TORCHIC,7,9
+    5,SOLROCK,11,15
+    3,CHARIZARD,17,20
+    8,SIMISEAR,10,15
 #-------------------------------
 [118] # Safari Zone 3
 Land,21
@@ -358,3 +367,20 @@ Land,21
     20,LITLEO,25,30
     20,LYCANROC,19,26
     20,SLUGMA,24,31
+#-------------------------------
+[122] # Tower_F3
+Cave,3
+    20,SPHEAL,8,12
+    20,VANILLITE,7,12
+    15,CUBCHOO,9,11
+    15,SNOVER,9,12
+    10,ABOMASNOW,16,20
+    10,BEARTIC,15,21
+    10,GLACEON,12,20
+    10,GLALIE,15,20
+    10,SEALEO,15,20
+    10,SNEASEL,15,20
+    8,VANILLUXE,19,23
+    5,FROSLASS,18,22
+    5,WALREIN,20,25
+    1,REGICE,25,30
