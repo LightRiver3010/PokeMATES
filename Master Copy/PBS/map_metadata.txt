@@ -455,3 +455,14 @@ SafariMap = true
 #-------------------------------
 [121]   # SF3 Peak
 SafariMap = true
+#-------------------------------
+[048]	#Tower_F1
+BattleBack = champion2
+#-------------------------------
+[083]	#Tower_F2
+BattleBack = champion1
+#-------------------------------
+[122]	#Tower_F3
+BattleBack = snow
+#-------------------------------
+
