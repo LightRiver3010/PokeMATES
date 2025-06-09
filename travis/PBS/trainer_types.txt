@@ -493,3 +493,23 @@ BaseMoney = 200
 IntroBGM = Triple Triad
 BattleBGM = Battle trainer
 #-------------------------------
+[TOWER_CHASE]
+Name = Siesta Admin
+Gender = Male
+BaseMoney = 350
+SkillLevel = 100
+BattleBGM = Siesta Battle
+#-------------------------------
+[TOWER_CLEEDA]
+Name = Siesta Admin
+Gender = Female
+BaseMoney = 350
+SkillLevel = 100
+BattleBGM = Siesta Battle
+#-------------------------------
+[TOWER_CHLOE]
+Name = Siesta Leader
+Gender = Female
+BaseMoney = 500
+SkillLevel = 100
+BattleBGM = Siesta Battle
