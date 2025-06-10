@@ -410,7 +410,7 @@ BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
 #-------------------------------
 [TOWER_RIVAL1]
-Name = Unnamed
+Name = Rival
 Gender = Male
 BaseMoney = 50
 SkillLevel = 70
@@ -572,4 +572,24 @@ BaseMoney = 80
 SkillLevel = 100
 BattleBGM = Intense Battle
 #-------------------------------
-
+[TOWER_CHASE]
+Name = Siesta Admin
+Gender = Male
+BaseMoney = 350
+SkillLevel = 100
+BattleBGM = Siesta Battle
+#-------------------------------
+[TOWER_CLEEDA]
+Name = Siesta Admin
+Gender = Female
+BaseMoney = 350
+SkillLevel = 100
+BattleBGM = Siesta Battle
+#-------------------------------
+[TOWER_CHLOE]
+Name = Siesta Leader
+Gender = Female
+BaseMoney = 500
+SkillLevel = 100
+BattleBGM = Siesta Battle
+#-------------------------------

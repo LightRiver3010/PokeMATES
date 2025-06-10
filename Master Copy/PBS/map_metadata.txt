@@ -413,6 +413,7 @@ Name = MAP080
 [084]   # Safari Zone 1
 Name = Safari Zone 1
 SafariMap = true
+BattleBack = field
 #-------------------------------
 [085]   # SF1 Garden
 Name = SF1 Garden
@@ -421,15 +422,18 @@ SafariMap = true
 [086]   # Safari Zone 2
 Name = Safari Zone 2
 SafariMap = true
+BattleBack = rocky
 #-------------------------------
 [087]   # SF2 Center Caves
 Name = SF2 Center Caves
 DiveMap = 116
 SafariMap = true
+BattleBack = rocky
 #-------------------------------
 [088]   # SF2 Waterfall
 Name = SF2 Waterfall
 SafariMap = true
+BattleBack = rocky
 #-------------------------------
 [095]   # Safari Zone Outside Entrance
 Name = Safari Zone Outside Entrance
@@ -439,10 +443,12 @@ SafariMap = true
 Name = S2 Underwater
 SafariMap = true
 Environment = Underwater
+BattleBack = water_night
 #-------------------------------
 [117]   # S2 Ice Cave
 Name = S2 Ice Cave
 SafariMap = true
+BattleBack= snow
 #-------------------------------
 [118]   # Safari Zone 3
 SafariMap = true
@@ -465,4 +471,9 @@ BattleBack = champion1
 [122]	#Tower_F3
 BattleBack = snow
 #-------------------------------
-
+[110]	#Siesta Base
+BattleBack = champion2
+#-------------------------------
+[115]	#Town
+BattleBack = field
+#-------------------------------

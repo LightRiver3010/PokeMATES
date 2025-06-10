@@ -359,14 +359,17 @@ Land,21
 [120] # SF3 Side
 Land,21
     20,LITLEO,25,30
-    20,LYCANROC,19,26
     20,SLUGMA,24,31
+    20,ARCANINE,24,30
+    20,ARCHEN,20,27
 #-------------------------------
 [121] # SF3 Peak
 Land,21
     20,LITLEO,25,30
-    20,LYCANROC,19,26
     20,SLUGMA,24,31
+    10,BLAZIKEN,24,32
+    20,CAMERUPT,22,30
+    10,CHARIZARD,25,33
 #-------------------------------
 [122] # Tower_F3
 Cave,3
@@ -384,3 +387,67 @@ Cave,3
     5,FROSLASS,18,22
     5,WALREIN,20,25
     1,REGICE,25,30
+#-------------------------------
+[084] # Safari Zone 1
+Land,21
+    40,BUNEARY,5,8
+    20,BUDEW,5,8
+    20,CATERPIE,5,7
+    20,PIDOVE,5,8
+    20,SHINX,5,8
+#-------------------------------
+[085] # SF1 Garden
+Water,18
+    20,CORPHISH,5,8
+    20,MAGIKARP,5,7
+#-------------------------------
+[086] # Safari Zone 2
+Cave,5
+    20,CRANIDOS,10,12
+    20,DIGLETT,9,11
+    20,HIPPOPOTAS,10,15
+    20,MAGNEMITE,10,14
+    20,SANDILE,10,13
+    20,SKARMORY,9,15
+    20,STUNKY,11,13
+    20,ZUBAT,10,12
+#-------------------------------
+[087] # SF2 Center Caves
+Cave,5
+    20,CRANIDOS,10,12
+    20,DIGLETT,9,11
+    20,LUNATONE,11,14
+    20,MAGNEMITE,10,14
+    20,SANDILE,10,13
+    20,SKARMORY,9,15
+    20,STUNKY,11,13
+    20,ZUBAT,10,12
+#-------------------------------
+[088] # SF2 Waterfall
+Cave,5
+    20,CRANIDOS,10,12
+    20,DIGLETT,9,11
+    20,MAGNEMITE,10,14
+    20,SANDILE,10,13
+    20,SKARMORY,9,15
+    20,STUNKY,11,13
+    20,ZUBAT,10,12
+#-------------------------------
+[116] # S2 Underwater
+Land,21
+    20,CHINCHOU,17,21
+    20,CLAMPERL,18,20
+    20,SHELLDER,18,20
+    10,CLAMPERL,18,19
+    10,CORSOLA,17,20
+    10,RELICANTH,16,19
+    10,SHELLDER,18,19
+#-------------------------------
+[117] # S2 Ice Cave
+Cave,5
+    40,SWINUB,16,18
+    20,SNEASEL,14,16
+    20,SNORUNT,12,15
+    10,SMOOCHUM,11,14
+    10,SNOVER,14
+#-------------------------------

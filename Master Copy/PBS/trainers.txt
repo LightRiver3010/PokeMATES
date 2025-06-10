@@ -271,4 +271,32 @@ Items = MAXPOTION, XATTACK2
 Pokemon = METAGROSS, 20
 Pokemon = CONKELDURR, 25
 #-------------------------------
-
+[TOWER_CHASE,Chase]
+LoseText = No way! I never lose!
+Items = FULLRESTORE, XSPEED
+Pokemon = BRAVIARY,30
+Pokemon = FLYGON,31
+Pokemon = GLISCOR,31
+Pokemon = NIDOKING,33
+	Item = LIFEORB
+#-------------------------------
+[TOWER_CLEEDA,Cleeda]
+LoseText = Hmm... I've lost...
+Items = FULLRESTORE, FULLRESTORE
+Pokemon = PARASECT,32
+Pokemon = QUAGSIRE,32
+Pokemon = MAGCARGO,34
+Pokemon = LUXRAY,36
+	Item = MAGNET
+#-------------------------------
+[TOWER_CHLOE,Chloe]
+LoseText = But- No- How can this be!?
+Items = FULLRESTORE, XATTACK2, REVIVE
+Pokemon = MAMOSWINE,35
+Pokemon = VESPIQUEN,35
+Pokemon = BRONZONG,37
+Pokemon = ARCANINE, 37
+Pokemon = JIRACHI,40
+	Shiny = True
+	Item = IRONPLATE
+#-------------------------------
