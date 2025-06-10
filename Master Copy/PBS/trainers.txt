@@ -123,17 +123,17 @@ LoseText = I HATE THIS CLASS!!!
 Pokemon = SKITTY,2
     Shiny = true
 #-------------------------------
-[TOWER_RIVAL1,Stranger]
+[TOWER_RIVAL1,Noah]
 Items = POTION
-LoseText = What? How?!
-Pokemon = SNIVY,10
+LoseText = What? How??
+Pokemon = SHINX,5
 #-------------------------------
-[TOWER_RIVAL1,Stranger,1]
+[TOWER_RIVAL1,Noah,1]
 Items = POTION
 LoseText = What? How?!
 Pokemon = CYNDAQUIL,10
 #-------------------------------
-[TOWER_RIVAL1,Stranger,2]
+[TOWER_RIVAL1,Noah,2]
 Items = POTION
 LoseText = What? How?!
 Pokemon = TOTODILE,10
@@ -240,8 +240,8 @@ Pokemon = CLEFFA,5
 Items = SUPERPOTION,SUPERPOTION,XDEFENSE2
 LoseText = Wow, you're tough!
 Pokemon = BISHARP,20
-Pokemon = GOREBYSS,18
-Pokemon = HITMONCHAN,23
+Pokemon = GOREBYSS,20
+Pokemon = HITMONCHAN,25
     Shiny = true
 #-------------------------------
 [TOWER_DISGUISEMASTER1,Nate]
@@ -258,15 +258,13 @@ Pokemon = VANILLISH, 18
 #-------------------------------
 [TOWER_SOFIA,Sofia]
 LoseText = No...
-Items = REVIVE, SUPERPOTION, SUPERPOTION, XATTACK2
+Items = REVIVE, MAXPOTION, SUPERPOTION, XATTACK2
 Pokemon = ABOMASNOW, 23
 Pokemon = WALREIN, 25
 Pokemon = VANILLUXE, 26
 Pokemon = ARTICUNO, 35
 	Shiny = True
 #-------------------------------
-<<<<<<< HEAD
-<<<<<<< HEAD
 [TOWER_RANGER1,Chris]
 LoseText = Don't ask what can be done. Ask what it takes...
 Items = MAXPOTION, XATTACK2
@@ -302,7 +300,3 @@ Pokemon = JIRACHI,40
 	Shiny = True
 	Item = IRONPLATE
 #-------------------------------
-=======
->>>>>>> e7e06c9bf42991cd3f9b7fb2f5416a1221858e9c
-=======
->>>>>>> e7e06c9bf42991cd3f9b7fb2f5416a1221858e9c

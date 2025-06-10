@@ -451,22 +451,16 @@ SafariMap = true
 BattleBack= snow
 #-------------------------------
 [118]   # Safari Zone 3
-Name = Safari Zone 3
 SafariMap = true
 #-------------------------------
 [119]   # SF3 Frontside
-Name = SF3 Frontside
 SafariMap = true
 #-------------------------------
 [120]   # SF3 Side
-Name = SF3 Side
 SafariMap = true
 #-------------------------------
 [121]   # SF3 Peak
-Name = SF3 Peak
 SafariMap = true
-<<<<<<< HEAD
-<<<<<<< HEAD
 #-------------------------------
 [048]	#Tower_F1
 BattleBack = champion2
@@ -483,7 +477,3 @@ BattleBack = champion2
 [115]	#Town
 BattleBack = field
 #-------------------------------
-=======
->>>>>>> e7e06c9bf42991cd3f9b7fb2f5416a1221858e9c
-=======
->>>>>>> e7e06c9bf42991cd3f9b7fb2f5416a1221858e9c
