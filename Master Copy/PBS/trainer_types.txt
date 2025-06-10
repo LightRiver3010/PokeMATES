@@ -565,6 +565,7 @@ BaseMoney = 300
 SkillLevel = 100
 BattleBGM = Victory Road
 <<<<<<< HEAD
+<<<<<<< HEAD
 #-------------------------------
 [TOWER_RANGER1]
 Name = Ranger
@@ -594,5 +595,7 @@ BaseMoney = 500
 SkillLevel = 100
 BattleBGM = Siesta Battle
 #-------------------------------
+=======
+>>>>>>> e7e06c9bf42991cd3f9b7fb2f5416a1221858e9c
 =======
 >>>>>>> e7e06c9bf42991cd3f9b7fb2f5416a1221858e9c

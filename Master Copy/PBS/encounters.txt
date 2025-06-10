@@ -425,8 +425,12 @@ Land,21
     20,LITLEO,25,30
     20,SLUGMA,24,31
 <<<<<<< HEAD
+<<<<<<< HEAD
     20,ARCANINE,24,30
     20,ARCHEN,20,27
+=======
+    20,VIBRAVA,19,26
+>>>>>>> e7e06c9bf42991cd3f9b7fb2f5416a1221858e9c
 =======
     20,VIBRAVA,19,26
 >>>>>>> e7e06c9bf42991cd3f9b7fb2f5416a1221858e9c
@@ -435,6 +439,10 @@ Land,21
 Land,21
     20,LITLEO,25,30
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    20,RHYHORN,19,26
+>>>>>>> e7e06c9bf42991cd3f9b7fb2f5416a1221858e9c
 =======
     20,RHYHORN,19,26
 >>>>>>> e7e06c9bf42991cd3f9b7fb2f5416a1221858e9c

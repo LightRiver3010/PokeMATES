@@ -266,6 +266,7 @@ Pokemon = ARTICUNO, 35
 	Shiny = True
 #-------------------------------
 <<<<<<< HEAD
+<<<<<<< HEAD
 [TOWER_RANGER1,Chris]
 LoseText = Don't ask what can be done. Ask what it takes...
 Items = MAXPOTION, XATTACK2
@@ -301,5 +302,7 @@ Pokemon = JIRACHI,40
 	Shiny = True
 	Item = IRONPLATE
 #-------------------------------
+=======
+>>>>>>> e7e06c9bf42991cd3f9b7fb2f5416a1221858e9c
 =======
 >>>>>>> e7e06c9bf42991cd3f9b7fb2f5416a1221858e9c
