@@ -445,24 +445,17 @@ Name = S2 Ice Cave
 SafariMap = true
 #-------------------------------
 [118]   # Safari Zone 3
+Name = Safari Zone 3
 SafariMap = true
 #-------------------------------
 [119]   # SF3 Frontside
+Name = SF3 Frontside
 SafariMap = true
 #-------------------------------
 [120]   # SF3 Side
+Name = SF3 Side
 SafariMap = true
 #-------------------------------
 [121]   # SF3 Peak
+Name = SF3 Peak
 SafariMap = true
-#-------------------------------
-[048]	#Tower_F1
-BattleBack = champion2
-#-------------------------------
-[083]	#Tower_F2
-BattleBack = champion1
-#-------------------------------
-[122]	#Tower_F3
-BattleBack = snow
-#-------------------------------
-

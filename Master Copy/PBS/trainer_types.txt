@@ -564,12 +564,3 @@ Gender = Female
 BaseMoney = 300
 SkillLevel = 100
 BattleBGM = Victory Road
-#-------------------------------
-[TOWER_RANGER1]
-Name = Ranger
-Gender = Male
-BaseMoney = 80
-SkillLevel = 100
-BattleBGM = Intense Battle
-#-------------------------------
-
