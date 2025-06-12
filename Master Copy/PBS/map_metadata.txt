@@ -209,6 +209,12 @@ BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
+[042]   # Tower_Entrance
+Bicycle = true
+#-------------------------------
+[043]   # Tower_Shoreline
+Bicycle = true
+#-------------------------------
 [044]   # Route 6
 Name = Route 6
 Outdoor = true
@@ -238,6 +244,10 @@ MapPosition = 0,15,10
 BattleBack = rocky
 MapSize = 2,11
 Environment = Rock
+#-------------------------------
+[048]   # Tower_F1
+Name = Tower_F1
+BattleBack = champion2
 #-------------------------------
 [049]   # Rock Cave 1F
 Name = Route 7
@@ -403,6 +413,7 @@ BattleBack = city
 #-------------------------------
 [076]   # Tower_Mid
 Name = Tower_Mid
+Bicycle = true
 #-------------------------------
 [077]   # Tower_School_F1
 Name = Tower_School_F1
@@ -410,70 +421,88 @@ Name = Tower_School_F1
 [080]   # Tower_School_F2
 Name = MAP080
 #-------------------------------
+[082]   # Safari Zone 
+Bicycle = true
+#-------------------------------
+[083]   # Tower_F2
+Name = Tower_F2
+BattleBack = champion1
+#-------------------------------
 [084]   # Safari Zone 1
 Name = Safari Zone 1
+Bicycle = true
 SafariMap = true
 BattleBack = field
 #-------------------------------
 [085]   # SF1 Garden
 Name = SF1 Garden
+Bicycle = true
 SafariMap = true
 #-------------------------------
 [086]   # Safari Zone 2
 Name = Safari Zone 2
+Bicycle = true
 SafariMap = true
 BattleBack = rocky
 #-------------------------------
 [087]   # SF2 Center Caves
 Name = SF2 Center Caves
+Bicycle = true
 DiveMap = 116
 SafariMap = true
 BattleBack = rocky
 #-------------------------------
 [088]   # SF2 Waterfall
 Name = SF2 Waterfall
+Bicycle = true
 SafariMap = true
 BattleBack = rocky
 #-------------------------------
 [095]   # Safari Zone Outside Entrance
 Name = Safari Zone Outside Entrance
+Bicycle = true
 SafariMap = true
+#-------------------------------
+[110]   # Tower_Siesta_Base
+Name = Tower_Siesta_Base
+BattleBack = champion2
+#-------------------------------
+[115]   # Tower_Town
+Name = Tower_Town
+Bicycle = true
+BattleBack = field
 #-------------------------------
 [116]   # S2 Underwater
 Name = S2 Underwater
 SafariMap = true
-Environment = Underwater
 BattleBack = water_night
+Environment = Underwater
 #-------------------------------
 [117]   # S2 Ice Cave
 Name = S2 Ice Cave
 SafariMap = true
-BattleBack= snow
+BattleBack = snow
 #-------------------------------
 [118]   # Safari Zone 3
+Name = Safari Zone 3
+Bicycle = true
 SafariMap = true
 #-------------------------------
 [119]   # SF3 Frontside
+Name = SF3 Frontside
+Bicycle = true
 SafariMap = true
 #-------------------------------
 [120]   # SF3 Side
+Name = SF3 Side
+Bicycle = true
 SafariMap = true
 #-------------------------------
 [121]   # SF3 Peak
+Name = SF3 Peak
+Bicycle = true
 SafariMap = true
 #-------------------------------
-[048]	#Tower_F1
-BattleBack = champion2
-#-------------------------------
-[083]	#Tower_F2
-BattleBack = champion1
-#-------------------------------
-[122]	#Tower_F3
+[122]   # Tower_F3
+Name = Tower_F3
 BattleBack = snow
-#-------------------------------
-[110]	#Siesta Base
-BattleBack = champion2
-#-------------------------------
-[115]	#Town
-BattleBack = field
-#-------------------------------
